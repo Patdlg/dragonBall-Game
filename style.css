@@ -16,3 +16,16 @@ body {
   background-image: url("planetNamek.png");
 background-size: cover;
 }
+
+#keys {
+  float:right;
+  margin-right: 150px;
+
+}
+
+#dir {
+   color: white;
+  font-size: 25px;
+  margin-left: 30%;
+
+}
